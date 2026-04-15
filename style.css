@@ -2,4 +2,10 @@
 *::before,
 *::after {
   box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+body{
+    background-color:hsl(30, 38%, 92%);
+    
 }
