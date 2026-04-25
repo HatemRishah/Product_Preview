@@ -11,9 +11,9 @@
   --green-700: hsl(158, 42%, 18%);
   --gray: hsl(228, 12%, 48%);
   --cream: hsl(30, 38%, 92%);
-
-  
+  --font-size-base: 0.875rem;
 }
 body {
   background-color: var(--cream);
+  font-size: var(--font-size-base);
 }
