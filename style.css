@@ -17,3 +17,8 @@ body {
   background-color: var(--cream);
   font-size: var(--font-size-base);
 }
+section {
+  margin: 10vh auto;
+  width: 92vw;
+  background-color: white;
+}
