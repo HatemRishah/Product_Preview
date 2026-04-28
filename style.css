@@ -12,13 +12,20 @@
   --gray: hsl(228, 12%, 48%);
   --cream: hsl(30, 38%, 92%);
   --font-size-base: 0.875rem;
+  --fraunces: "Fraunces", serif;
+  --montserrat: "Montserrat", sans-serif;
 }
 body {
   background-color: var(--cream);
   font-size: var(--font-size-base);
+  font-family: var(--montserrat);
 }
 section {
   margin: 10vh auto;
   width: 92vw;
   background-color: white;
+}
+h1 {
+  font-family: var(--fraunces);
+  font-weight: 700;
 }
