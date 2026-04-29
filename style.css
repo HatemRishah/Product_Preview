@@ -24,6 +24,11 @@ section {
   margin: 10vh auto;
   width: 92vw;
   background-color: white;
+  border-radius: 8px;
+  display: grid;
+}
+section:nth-child(2) {
+    display: flex;
 }
 h1 {
   font-family: var(--fraunces);
