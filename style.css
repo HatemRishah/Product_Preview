@@ -19,6 +19,7 @@ body {
   background-color: var(--cream);
   font-size: var(--font-size-base);
   font-family: var(--montserrat);
+  color: var(--gray);
 }
 section {
   margin: 10vh auto;
