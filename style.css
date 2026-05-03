@@ -78,15 +78,15 @@ button {
   transition: all 0.2s ease-in-out;
 }
 button:active {
-    background-color: var(--green-700);
-    transform: scale(0.95);
-  }
+  background-color: var(--green-700);
+  transform: scale(0.95);
+}
 footer {
   text-align: center;
   text-decoration: none;
   color: black;
 }
-a{
+a {
   color: var(--green-500);
   font-family: var(--fraunces);
   font-weight: 700;
